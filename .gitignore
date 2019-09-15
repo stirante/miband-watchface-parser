@@ -1,2 +1,6 @@
-# Project exclude paths
 /target/
+.idea
+*.iml
+#don't want to upload test watchfaces
+*.bin
+/images/
